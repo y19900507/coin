@@ -1,0 +1,13 @@
+packages:
+  - "api-gateway"
+  - "auth-service"
+  - "user-service"
+  - "market-service"
+  - "order-service"
+  - "matching-engine"
+  - "wallet-service"
+  - "position-service"
+  - "notification-service"
+  - "risk-service"
+  - "analytics-service"
+  - "shared-lib" 
